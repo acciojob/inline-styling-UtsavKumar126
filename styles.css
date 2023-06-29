@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+#f1{
+	content:"Flowers photos";
+	text-align:center;
+	background-color:yellow
+}
+#f2{
+	content:"Roses picture";
+	text-align:center;
+	background-color:yellow
+}
